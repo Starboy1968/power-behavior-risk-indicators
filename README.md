@@ -67,8 +67,12 @@ Method guide: [02-framework/qualitative-methods.md](02-framework/qualitative-met
 
 ## Related projects
 
-- [AI Supply Chain Risk Assessment](https://github.com/Starboy1968/ai-supply-chain-risk-assessment): scored risk assessment of AI in the supply chain, with controls, KRIs, and vendor due diligence.
-- [AI-Assisted Risk Analysis](https://github.com/Starboy1968/ai-assisted-risk-analysis): using AI tools to support, not replace, analyst judgment.
+- [AI Supply Chain Risk Assessment](https://github.com/Starboy1968/ai-supply-chain-risk-assessment): nine scored AI-related supply chain risks, with controls, warning indicators (KRIs) and a 30/60/90-day plan.
+- [AI-Assisted Risk Analysis](https://github.com/Starboy1968/ai-assisted-risk-analysis): a reusable risk-analysis prompt and a worked example where an AI first draft is checked and corrected by a human reviewer.
+- [Behavioral Supply Chain Risk: Human Factors, AI, and Audit](https://github.com/Starboy1968/behavioral-supply-chain-risk-audit-ai): how bias and pressure create supply chain risk, and how AI triage, audit evidence and human review help catch it.
+- [Playing the Risk Game: Game Theory for Supply Chain Risk and AI Governance](https://github.com/Starboy1968/supply-chain-ai-governance-strategy): plain-language game theory that explains why supply chain and AI risks persist, and which incentives to change.
+- [AI in Supply Chain Operations: A Strategist's Field Guide](https://github.com/Starboy1968/ai-in-supply-chain-operations): how a supply chain manager can use AI in six everyday jobs, and what to check before trusting it.
+- [Healthcare Cyber Risk Program: An OSINT Case Study](https://github.com/Starboy1968/healthcare-cyber-risk-osint-case-study): a cyber risk program for a fictional regional health system, built only from public sources.
 
 This project is the qualitative complement to those: the numbers tell you *what* the risk is; reading the room tells you whether the numbers can be trusted.
 
